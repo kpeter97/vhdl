@@ -6,3 +6,5 @@ This repository contains mainly simple vhdl codes for practise purposes and gett
 #2 Flip Flops & Testbench (D & T ff,testbench needs a rewrite)
 
 #3 sevenSeg (Arduino devkit 7 segment display driver)
+
+#4 Counter 8 bit & Testbench
