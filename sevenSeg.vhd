@@ -5,7 +5,7 @@ use IEEE.numeric_std.ALL;
 use IEEE.std_logic_unsigned.ALL;
 
 
---Driver interface for the single 7 segment display in the Arduino Uno devkit (sa08-11ewa)
+--Driver interface for the single 7 segment display in the Arduino Uno devkit
 --Displays number from 0 to 9. The dot in the down right corner is not used
 
 entity sevenSeg is
