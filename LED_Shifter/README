@@ -1,0 +1,4 @@
+LED Slider
+
+When button is pressed LEDS will shift left
+When button is released LEDS will shift right
