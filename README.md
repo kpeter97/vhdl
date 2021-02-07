@@ -8,3 +8,5 @@ This repository contains mainly simple vhdl codes for practise purposes and gett
 #3 sevenSeg (Arduino devkit 7 segment display driver)
 
 #4 Counter 8 bit & Testbench
+
+#5 SubClock example with counter
